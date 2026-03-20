@@ -1,0 +1,30 @@
+{
+    "juan": {
+        "id": "fafbde41-ebf3-545b-aff0-9dc922708a7f",
+        "fullName": "Juan Cruz",
+        "hash": "$2b$12$LusUuUepwZ/9XIclbGVHEunD4D7Y8KqktijPSFEZiq4qiJohFgyDG",
+        "userLevel": 0,
+        "createdAt": 1773987140
+    },
+    "pedro": {
+        "id": "d30be88a-823d-590a-8ac9-3837a12313b0",
+        "fullName": "Pedro Santos",
+        "hash": "$2b$12$ci5H7zlH.qk8cX1./IIpCezXJG1KNs9ZVqwTagwMRijTrE3Pihrni",
+        "userLevel": 1,
+        "createdAt": 1773987162
+    },
+    "maria": {
+        "id": "b33cabb8-ed13-5cb3-8d99-3e084ac3308f",
+        "fullName": "Maria Reyes",
+        "hash": "$2b$12$1SvV4Al2h1.PmuWhL90WteGghNzq/JZxJ3ONMZzU8/weiia1BudQa",
+        "userLevel": 2,
+        "createdAt": 1773987184
+    },
+    "jose": {
+        "id": "0022bc30-2aa4-5a4e-97bd-613d33504335",
+        "fullName": "Jose Rizal",
+        "hash": "$2b$12$oJl4aM54pgjL.ti/X0WJNeBg6vn6Bi7UKP0Qa/vsjbU6Fwn2WAv.K",
+        "userLevel": 3,
+        "createdAt": 1773987226
+    }
+}
